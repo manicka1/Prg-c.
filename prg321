@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdio.h>  
+#include <time.h>  
+
+
+int main() {
+
+printf("                                     čísla pod sebou\n");
+    int i;
+    for(i=1; i<=50; i++){
+       printf("%i\n", i);
+}
+ return 0;
+}
