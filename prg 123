@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main() {
+ 
+ 
+ printf("                                     počet jablek\n             IT:\n");
+   
+   int i;                    
+   
+   for(i=1; i<=30; i++){
+       printf("%i\n", i);
+   }
+   
+    printf("                                   počet hrušek\n             ET:\n");
+   
+   int u;
+   for(u=1; u<=25; u++){
+       printf("%i\n", u);
+   }
+   
+   return 0;
+}n 0;
+}
